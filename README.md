@@ -58,19 +58,19 @@ I’m dedicated to building creative projects and exploring emerging technologie
 ---
 
 ### 📊 GitHub Stats
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godfreymatagaro&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godfreymatagaro&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godfreyonyinkwa&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godfreyonyinkwa&theme=radical) |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godfreymatagaro&langs_count=8&theme=radical&layout=compact) | ![Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=godfreymatagaro&theme=radical&utcOffset=5.45) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godfreyonyinkwa&langs_count=8&theme=radical&layout=compact) | ![Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=godfreyonyinkwa&theme=radical&utcOffset=5.45) |
 
 ---
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=godfreymatagaro&theme=radical&no-frame=false&no-bg=true&margin-w=5)
+![Trophies](https://github-profile-trophy.vercel.app/?username=godfreyonyinkwa&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
 ---
 
 ### 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=godfreymatagaro&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&border_color=7F3FBF)](https://github.com/godfreymatagaro)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=godfreyonyinkwa&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&border_color=7F3FBF)](https://github.com/godfreyonyinkwa)
 
 ---
 
