@@ -78,8 +78,7 @@ I’m dedicated to building creative projects and exploring emerging technologie
 <div align="center">
   
  
-    <a href="https://www.x.com/godfreymatagaro/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+   
   
   <a href="mailto:godfreymatagaro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
